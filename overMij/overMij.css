@@ -1,0 +1,62 @@
+.center {
+    text-align: center;
+}
+
+body {
+    font-family: monospace;
+    background-color: rgb(0, 32, 3) ;
+}
+
+header {
+    background-color: green;
+    height: 160px;
+    top: 30px;
+}
+
+h1, h2, p {
+    color:chartreuse;
+}
+
+p {
+    font-size: 16px;
+}
+
+#knoppen {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: chartreuse;
+}
+
+/* Ik heb een deel van de CSS van de list opgezocht */
+
+.knop {
+    float: left;
+}
+  
+a {
+    display: block;
+    padding: 8px;
+    background-color: chartreuse;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: chartreuse;
+    background-color: rgb(0, 88, 19);
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+.hobby {
+    color: chartreuse;
+}
+
+.enters { 
+    margin-top: 5000px; 
+}
+/* ^^^^^^ Dit komt van StackOverflow ^^^^^^ */

@@ -1,0 +1,37 @@
+----------    ----------    --            ----------    ----------    ----------    --      --
+--            --      --    --            --      --    --            --      --    ----    --
+--            --      --    --            --      --    ----------    --      --    -- --   --
+--            --      --    --            --      --    --            --      --    --  --  --
+--            --      --    --            --      --    --            --      --    --   -- --
+--            --      --    --            --      --    --            --      --    --    ----
+----------    ----------    ----------    ----------    --            ----------    --     ---
+
+Colofon
+
+Maker Website: 
+    Lucas Boer Noheda A4A
+
+Bronvermelding:
+    Ik heb best weinig code van het internet af gehaald. De stukken code die ik niet wist heb ik van W3Schools of Stackoverflow
+    https://www.w3schools.com/html/default.asp
+    https://stackoverflow.com/
+
+    Soms heb ik ook om hulp gevraagd bij leraren of mijn vriend Rev, die net als mij a best veel ervaring heeft met html en css.
+    Andere dingen die ik vergeten was heb ik van eerdere projecten van mij gehaald. Bijvoorbeeld de navigation bar had ik al
+    gemaakt in de about me pagina. 
+
+    De plaatjes heb ik allemaal van internet, behalve het logo en het winkelwagentje, want die heb ik zelf gemaakt in Paint. 
+
+    Plaatjes:
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Ffruitmasters.com%2Fnl%2Fproducten%2Fappels%2Fpink-lady%2F&psig=AOvVaw0kiwswEert8lr3AMMmQgNr&ust=1700847853070000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCr-5LW2oIDFQAAAAAdAAAAABAE
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dekamarkt.nl%2Fproducten%2Fvoorraadkast%2Fpasta-pasta-sauzen%2Fgrand-italia-conchiglie-tradizionali-mini-350-g%2F58005&psig=AOvVaw39Jvthc-V0pwwSc7NMP78M&ust=1700847915012000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDhw7DW2oIDFQAAAAAdAAAAABAE
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dekamarkt.nl%2Fproducten%2Fsnacks-snoep%2Fdrop%2Fautodrop-beroemde-bosvruchtrode-cadillacs-280-g%2F44829&psig=AOvVaw2fG_3xDJP9larnZYdV7t2C&ust=1700847954383000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCZt8PW2oIDFQAAAAAdAAAAABAE
+    https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.ah.nl%2Fdam%2Fproduct%2FAHI_43545239373936313338%3FrevLabel%3D3%26rendition%3D400x400_JPG_Q85%26fileType%3Dbinary&tbnid=Jx4aww02vCCNyM&vet=12ahUKEwjMpOnK1tqCAxU5zQIHHfZOBc4Q94IIKAB6BAgBEEI..i&imgrefurl=https%3A%2F%2Fwww.ah.nl%2Fproducten%2Fproduct%2Fwi229807%2Flay-s-bugles-nacho-cheese&docid=3Qy5FANf-O2eqM&w=400&h=400&q=bugles&hl=nl&ved=2ahUKEwjMpOnK1tqCAxU5zQIHHfZOBc4Q94IIKAB6BAgBEEI
+    https://www.google.com/imgres?imgurl=https%3A%2F%2Fretrieval.dam-lite.prod.aws.jumbo.com%2Ffit-in%2F360x360%2FProducts%2F13102023_1697164322515_1697164339226_568595_BLK_08720182687081_C1N1.png&tbnid=LVs_2cVYn5VJTM&vet=12ahUKEwjW9Jvg1tqCAxXCzQIHHfyPBtIQMygBegQIARBG..i&imgrefurl=https%3A%2F%2Fwww.jumbo.com%2Fproducten%2Funox-magere-knaks-3-x-400g-417481STK&docid=4kFR-dDALeZPnM&w=360&h=360&q=unox%20magere%20knaks&hl=nl&ved=2ahUKEwjW9Jvg1tqCAxXCzQIHHfyPBtIQMygBegQIARBG
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fkratjecontant.nl%2Fproduct%2Ffrisdrank%2Fappelaere-appelsap-6x75cl-doos%2F&psig=AOvVaw11l_45hea0IEkKiqdFbZ-P&ust=1700909509777000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJC8neu73IIDFQAAAAAdAAAAABAD
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.plus.nl%2Fproduct%2Feru-kids-kuipje-100-gram-737248&psig=AOvVaw2JE3q54QcN3LYiNsG3P4aQ&ust=1700945668771000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPirwMTC3YIDFQAAAAAdAAAAABAE
+
+    Het font heet Hamburg-Bold en is hetzelfde als bij de website van de echte Albert Heijn. Ik heb hem gedownload vanaf deze website:
+    https://www.wfonts.com/font/hamburg-bold
+    
+    

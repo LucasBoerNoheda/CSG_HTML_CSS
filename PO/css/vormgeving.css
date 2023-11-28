@@ -1,17 +1,290 @@
-html, body {
-    padding: 0;
+* {
     margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Hamburg;
+    src: url(/PO/font/hamburg-bold/Hamburg-DemiBold.ttf);
+}
+
+:root {
+    --zwart: black;
+    --wit: white;
+    --licht-blauw: deepskyblue;
+    --lichtgrijs: rgb(233, 233, 233);
+    --lichter-blauw: rgb(199, 241, 255);
 }
 
 body {
-    background: #5d524c;
-    color: #c8c3bf;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-    padding-left: 10%;
+    font-family: Hamburg;
+    background-color: var(--licht-blauw);
+}   
+
+/*-----------------------------------------------------------------------------*/
+
+
+.headerbox {
+    background-color: var(--wit);
+    display: flex;
+    height: 150px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.headerboxsmall {
+    background-color: var(--wit);
+    display: flex;
+    height: 150px;
+    width: 100%;
+    align-items: center;
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
+.header1cube {
+    margin-left: 50px
+}
+
+.headerh1 {
+    font-size: 50px;
+    display: flex;
+}
+
+.header2small {
+    font-size: 100px;
+    display: flex;
+    margin: 30px ;
+}
+
+.headerh1small {
+    font-size: 30px;
+    display: flex;
+    justify-self: left;
+
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    padding-right: 40px ;
+}
+
+.logosmall {
+    height: 120px;
+    width: 120px;
+    padding-right: 40px ;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.navbar {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    align-items: center;
+    row-gap: 100px;
+}
+
+.navbox {
+    background-color: var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.navboxsmall {
+    background-color: var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.navbox:hover {
+    background-color:  var(--wit);
+}
+
+
+.navtext:hover {
+    color: var(--licht-blauw);
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.navtext {
+    color: var(--zwart);
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.navimg {
+    width: 40px; ;
+    height: 40px; ;
+}
+
+.navimg:hover {
+    color:  var(--licht-blauw);
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/*-----------------------------------------------------------------------------*/
+
+.textpage1 {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 900px;
+    background-color: var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    flex-direction: column;
+}
+
+.h1bigpage {
+    color: var(--zwart);
+    font-size: 60px ;
+    margin-top: 130px;
+}
+
+.h2bigpage {
+    color: var(--zwart);
+    font-size: 40px ;
+    margin-top: 10px;
+}
+
+.textpage2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    background-color:  var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    flex-direction: column;
+
+}
+
+.textpage3 {
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    background-color:  var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    flex-direction: column;
+
+}
+
+.product {
+    height: 270px;
+    width: 300px;
+    background-color:  var(--wit);
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 10px solid;
+    border-color: white;
+    
+}
+
+.product img {
+    height: 190px;
+    width: 190px;
+}
+
+.product #appelsap {
+    height: 190px;
+    width: 100px;
+}
+
+#appelsap2 {
+    height: 400px;
+    width: 200px;
+}
+
+
+
+.producth2 {
+    color: var(--zwart);
+    font-size: 18px ;
+    margin-bottom: 10px;
+}
+
+.textboxyboi {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    width: 100%;
+    height: 280px;
+    background-color:  var(--licht-blauw);
+    margin: 20px;
+}
+
+.kopenplaatje {
+    width:400px;
+    height: 400px;
+    background-color: var(--wit);
+    margin: 16px;
+}
+
+input {
+    width: 200px;
+    height: 20px;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.betaalknop {
+    display: flex;
+    background-color: var(--licht-blauw);
+    border: 2px;
+    border-color:  var(--wit);
+    border-style: solid;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100px;
+}
+
+.betaalknop:hover {
+    background-color: var(--wit);
+}
+
+.betaalknop a {
+    color: var(--zwart);
+    text-decoration: none;
+}
+
+.betaalknop a:hover {
+    color: var(--licht-blauw);
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.textpage1 h3{
+    font-size: 20px;
+    margin-top: 30px;
 }
